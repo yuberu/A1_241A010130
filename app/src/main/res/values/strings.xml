@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A1_241A010130</string>
+    <string name="title">Lab A1 – Vòng đời Activity</string>
+    <string name="student">Tô Nhật Duy - 241A010130</string>
+    <string name="clear">Xóa log</string>
+    <string name="crash">Gây lỗi</string>
+    <string name="finish">Thoát</string>
+</resources>
